@@ -4,7 +4,7 @@
 
 Welcome to part two of our two-week machine learning series! 
 
-You can check out week 1 [here](https://github.com/HackBinghamton/MachineLearningWorkshopWeek1)
+You can check out week 1 [here](https://github.com/HackBinghamton/MachineLearningWorkshopWeek1).
 
 ## Bug Bounties
 
