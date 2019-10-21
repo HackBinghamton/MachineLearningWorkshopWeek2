@@ -4,9 +4,9 @@
 
 Welcome to part two of our two-week machine learning series! We have two sections this week: one on stock price prediction, and one on fake news detection.
 
-**[Stock Price Prediction](https://colab.research.google.com/github/HackBinghamton/MachineLearningWorkshopWeek2/blob/master/stock_price_prediction/stock_price_prediction.ipynb)**
-
-**[Fake News Detection]()**
+### Today's Topics
+* **[Stock Price Prediction](https://colab.research.google.com/github/HackBinghamton/MachineLearningWorkshopWeek2/blob/master/stock_price_prediction/stock_price_prediction.ipynb)**
+* **[Fake News Detection]()**
 
 You can check out week 1 [here](https://github.com/HackBinghamton/MachineLearningWorkshopWeek1).
 
