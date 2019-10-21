@@ -6,7 +6,7 @@ Welcome to part two of our two-week machine learning series! We have two section
 
 ### Today's Topics
 * **[Stock Price Prediction](https://colab.research.google.com/github/HackBinghamton/MachineLearningWorkshopWeek2/blob/master/stock_price_prediction/stock_price_prediction.ipynb)**
-* **[Fake News Detection]()**
+* **[Fake News Detection](https://colab.research.google.com/github/HackBinghamton/MachineLearningWorkshopWeek2/blob/master/fake_news_detection/Fake%20News%20Detection%20with%20Tensorflow.ipynb)**
 
 You can check out week 1 [here](https://github.com/HackBinghamton/MachineLearningWorkshopWeek1).
 
