@@ -16,4 +16,4 @@ If you find a bug or mistake in our workshop, let an organizer know or [make a p
 
 ## Feedback
 
-If you attended our workshop on 10/21/2019, please leave feedback [here](https://forms.gle/7TWBCRzaZtsiN93Z7). Fill out the form to be entered in a raffle for some HackBU swag!
+If you attended our workshop, please leave feedback [here](https://forms.gle/7TWBCRzaZtsiN93Z7). Fill out the form to be entered in a raffle for some HackBU swag!
